@@ -1,5 +1,4 @@
-package com.yicj.study.provider.entity;
-
+package com.yicj.study.api.entity;
 
 import lombok.Data;
 import lombok.ToString;

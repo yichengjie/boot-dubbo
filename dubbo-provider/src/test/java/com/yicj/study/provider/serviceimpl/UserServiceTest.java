@@ -1,7 +1,8 @@
-package com.yicj.study.provider.service;
+package com.yicj.study.provider.serviceimpl;
 
+import com.yicj.study.api.service.IUserService;
 import com.yicj.study.provider.MyApplication;
-import com.yicj.study.provider.entity.User;
+import com.yicj.study.api.entity.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
