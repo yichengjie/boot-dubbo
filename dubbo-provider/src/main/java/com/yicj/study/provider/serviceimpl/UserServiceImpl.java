@@ -6,7 +6,7 @@ import com.yicj.study.provider.mapper.UserMapper;
 import com.yicj.study.api.service.IUserService;
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("userService")
 public class UserServiceImpl extends ServiceImpl<UserMapper,User> implements IUserService {
 
 }
